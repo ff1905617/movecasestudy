@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 415.46 124.35">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-family: PPTalisman-CondensedExtraboldItalic, 'PP Talisman';
+        font-size: 72px;
+        font-style: italic;
+        font-variation-settings: 'wght' 0, 'slnt' 0, 'wdth' 0;
+        font-weight: 700;
+        opacity: .93;
+      }
+
+      .cls-2 {
+        fill: #ec2426;
+      }
+
+      .cls-3 {
+        letter-spacing: .01em;
+      }
+
+      .cls-4 {
+        letter-spacing: .01em;
+      }
+
+      .cls-5 {
+        letter-spacing: .01em;
+      }
+
+      .cls-6 {
+        letter-spacing: .01em;
+      }
+
+      .cls-7 {
+        letter-spacing: .01em;
+      }
+
+      .cls-8 {
+        letter-spacing: .01em;
+      }
+    </style>
+  </defs>
+  <path class="cls-2" d="M371.2,0H75.21l44.26,62.17-44.26,62.18h295.99l44.26-62.18L371.2,0Z"/>
+  <polygon class="cls-2" points="59.32 0 37.01 0 81.63 62.17 37.01 124.35 59.32 124.35 103.94 62.17 59.32 0"/>
+  <polygon class="cls-2" points="22.31 0 0 0 44.62 62.17 0 124.35 22.31 124.35 66.93 62.17 22.31 0"/>
+  <text class="cls-1" transform="translate(142.62 85.84)"><tspan class="cls-3" x="0" y="0">R</tspan><tspan class="cls-4" x="31.27" y="0">E</tspan><tspan class="cls-5" x="58.01" y="0">D </tspan><tspan class="cls-8" x="99.4" y="0">L</tspan><tspan class="cls-7" x="126.66" y="0">I</tspan><tspan class="cls-3" x="141.73" y="0">N</tspan><tspan class="cls-6" x="173.85" y="0">E</tspan></text>
+</svg>
